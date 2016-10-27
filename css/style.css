@@ -1,0 +1,145 @@
+body {
+	background: #fafaf0;
+	font-family: 'Raleway', sans-serif !important;
+	font-size: 12px;
+	-webkit-transition: 500ms ease-in-out;
+    -moz-transition: 500ms ease-in-out;
+    -o-transition: 500ms ease-in-out;
+    -ms-transition: 500ms ease-in-out;
+    transition: 500ms ease-in-out;
+}
+
+.top-header {
+    background: rgba(255,255,255,1);
+    box-shadow: 0 0 4px 0 rgba(0,0,0,.4);
+}
+
+header h1 {
+	text-align: center;	
+}
+.ch-app-canvas-wrapper-fr {
+
+}
+
+.ch-app-canvas-wrapper-fr header h1{
+	text-align: center;
+}
+
+.ch-app-canvas-wrapper-im {
+	background: red;
+	width: 500px;
+	height: 500px;
+}
+.ch-app-big-canvas {
+	padding: 15px;
+    background:rgba(255,255,255,1);
+    box-shadow:0 0 3px 1px rgba(0,0,0,0.2);
+}
+
+.ch-app-small-canvas-one, .ch-app-small-canvas-two {
+	padding: 7px;
+    background:rgba(255,255,255,1);
+    box-shadow:0 0 3px 1px rgba(0,0,0,0.2);
+    position: relative;
+}
+.cha-side-box {
+	background: #000;
+	padding: 7px;
+	width: 300px;
+  	height: 100%;
+  	left: 0;
+}
+
+
+
+@media (min-width: 1200px) {
+  .affix {
+    width: 263px;
+    top: 0;
+  	left: 0;
+  }         
+}
+
+@media (max-height: 500px) {
+  .affix {
+    position: static;
+  }
+}
+
+aside header {
+	background: #fff;
+	padding:3px 5px;
+	text-align: center;
+}
+
+aside header h1{
+	font-size: 18px;
+	font-family: 'Bungee', cursive;
+}
+.control-label {
+	font-size: 9px;
+	color:#fcfcfc;
+}
+
+form {
+	margin-top: 20px;
+}
+
+.input-form {
+	background: #f9f9f9;
+	padding: 10px;
+}
+.upload-form {
+	background: #fafafa;
+	padding: 10px;
+}
+
+
+
+.form-submit-btn {
+	padding:3px !important;
+	border:none !important;
+	font-size: 16px !important;
+	background: rgba(233,113,28, 0.9)  !important;
+	border: transparent 1px solid !important;
+	}
+.form-submit-btn:hover {
+	border: #fff 1px solid !important;
+	}
+
+.navbar-custom {
+    background: rgba(255,255,255,1);
+    box-shadow: 0 0 4px 0 rgba(0,0,0,.4);
+}
+
+.navbar-brand {
+	font-family: 'Bungee', cursive;
+}
+.brand-logo {
+	color: rgba(233,113,28, 1);
+}
+.slogan { 
+	margin-top: 15px;
+	font-size: 16px;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #333;
+	font-family: 'Cinzel', serif;
+}
+
+.form-control {
+	border: none!important;
+    box-shadow: none!important;
+    border-bottom: 3px solid #C5C6C8!important;
+    border-radius: 0;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.form-control:focus {
+	border: none;
+    outline: none;
+    border-bottom: 3px solid #e9711c!important;
+}
+
+
