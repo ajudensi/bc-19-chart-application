@@ -19,7 +19,8 @@
 
 [Checkout the App](https://ajudensi.github.io/bc-20-chart-application/) hosted one Gitpages
 
-#Backend dependencies
+#Technology
+1. Javascript: [is a high-level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification.](https://en.wikipedia.org/wiki/JavaScript)
 
 
 #Frontend dependencies
