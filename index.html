@@ -65,7 +65,7 @@
                 </header>
             <div>
               
-              <form class="form-horizontal upload-form" id="upload-form">
+             <!--  <form class="form-horizontal upload-form" id="upload-form">
                 <legend>Upload data</legend>
                 <div class="form-group">
                   <label class="control-label col-md-12" for="file"><span class="text-info">File: (CSV and JSON only)</span></label>
@@ -79,12 +79,20 @@
                     <button type="submit" class="btn btn-block btn-primary form-submit-btn"><span class="fa fa-upload"></span> Upload and plot</button>
                   </div>
                 </div>
-              </form>
+              </form> -->
 
               <hr>
 
               <form class="form-horizontal input-form" enctype="multipart/form-data" id='input-form'>
-                <legend>Enter data</legend>
+
+                <legend>Data tracker</legend>
+                <div class="form-group">
+                  <label class="control-label col-md-12" for="chart-title"><span class="text-info">Enter title here</span></label>
+                  <div class="col-md-12">
+                    <input class="form-control" id="chart-title" placeholder="Enter title here"></input>
+                  </div>
+                </div>
+
                 <div class="form-group">
                   <label class="control-label col-md-12" for="data"><span class="text-info">Enter your data here (separate values with anything but numbers)</span></label>
                   <div class="col-md-12">
@@ -126,6 +134,7 @@
           <div class="col-md-8">
             <section class="ch-app-canvas-wrapper-im">
               <canvas class="ch-app-big-canvas" id="ch-app-big-canvas" height="500" width="500">
+                  <p>Your browser does not support HTML5 canvas. Get a modern browser to use ChartApp</p>
               </canvas>
             </section>
           </div>
