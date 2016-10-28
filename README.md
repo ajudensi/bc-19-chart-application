@@ -27,3 +27,7 @@
 #How to use
 
 ###Saving charts
+
+
+#ChartApp preview
+![ChartApp](https://github.com/ajudensi/bc-20-chart-application/blob/master/img/chartapp.JPG)
