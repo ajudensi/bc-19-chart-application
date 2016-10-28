@@ -57,7 +57,7 @@ header h1 {
 	color:red;
 }
 .cha-side-box {
-	background: #000;
+	background: #CCC;
 	padding: 7px;
 	width: 300px;
   	height: 100%;
@@ -163,4 +163,9 @@ label.control-label.col-md-12 {
 
 #tour-tracker {
 	display: none;
+}
+
+.footer {
+	font-size: 12;
+	padding:0 20px;
 }
