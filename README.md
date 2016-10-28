@@ -28,9 +28,9 @@
 2. Fontawesome: The iconic font and CSS toolkit
 
 #Sample data
-1. 293	296	241	327	115	134	276	333	247	111	448	321	439	209	108	76	110	139	24	249	5	285	320	314	323 - This data will work for all chart except pie because its sum is not equal to 360.
-
-2. 10 20 30 40 50 60 70 80 - This data will work for all graphs including pie chart because its sum is equal to 360.
+1. 293	296	241	327	115	134	276	333	247	111	448	321	439	209	108	76	110	139	24	249	5	285	320	314	323
+2. 10 20 30 40 50 60 70 80
+3. $46#56%^78W^23^55$78&89*#85(#345(&67$88*98(#54(23#67)13(56#78*99&$46&$*56$*67*#88)@99)_100#_#130(@
 
 #ChartApp preview
 ![ChartApp](https://github.com/ajudensi/bc-20-chart-application/blob/master/img/chartapp.JPG)
