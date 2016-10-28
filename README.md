@@ -21,7 +21,7 @@
 
 #Technology
 1. Javascript: [is a high-level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification.](https://en.wikipedia.org/wiki/JavaScript)
-
+2. HTML5 (Canvas): The HTML <canvas> element is used to draw graphics, on the fly, via JavaScript. The <canvas> element is only a container for graphics. You must use JavaScript to actually draw the graphics. Canvas has several methods for drawing paths, boxes, circles, text, and adding images. [www.w3schools.com/html/html5_canvas.asp]
 
 #Frontend dependencies
 1. Bootstrap: HTML framework for frontend development
